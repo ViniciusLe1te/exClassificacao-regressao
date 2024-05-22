@@ -47,3 +47,6 @@ A SEGUIR, ENTRE OS CÓDIGOS E IDENTIFIQUE SEU CÓDIGO;
 EXECUTE O CÓDIGO E VEJA SE O MESMO FUNCIONA;
 
 APÓS A CRIAÇÃO COMPARTILHE O CÓDIGO NA TAREFA MANDANDO SEU LINK DE ACESSO.
+
+
+link para acesso ao colab: [Colab](https://colab.research.google.com/drive/1V3J8nchwR1S6b-3df4qeY2k3TwBGCsw-?usp=sharing)
